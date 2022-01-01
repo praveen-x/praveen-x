@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋 I am Praveen</h1>
 
-<h3 align="center">Student, webdev, and always a learner</h3>
+<h3 align="center">Student, webdev, and always a learner !</h3>
 
 - 👨‍🎓 Student at **IIT-Madras**
 - 🦸‍♂️ Trainee Software Engineer at **TA Digital, Hyderabad**
