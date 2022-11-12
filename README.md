@@ -2,7 +2,7 @@
 
 <h3 align="center">Part Time Full-stack Developer and a Full Time Learner !</h3>
 
-- 🦸‍♂️ Software Engineer at **TA Digital, Hyderabad**
+- 🦸‍♂️ Software Engineer at **TA Digital, Gurugram**
 - 🌱 I'm currently learning **Rust**
 - ⚡ Fun fact: I have been on **Times Person of the Year** magazine
 - 📫 Reach me: 
