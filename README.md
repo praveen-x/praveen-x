@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋</h1>
 
-<h3 align="center">I'm a Part Time Developer, Full Time Learner !</h3>
+<h3 align="center">I'm a Part Time Software Developer and Full Time Learner !</h3>
 
 - 🌱 I'm currently learning **Rust**
 - 📫 Reach me: 
